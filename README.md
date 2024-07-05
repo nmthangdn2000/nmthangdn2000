@@ -26,6 +26,7 @@ I am a full-stack developer capable of developing and deploying:
 - Mobile applications
 - Desktop applications
 - Automation tools to streamline processes
+- Cloud solutions for scalable and efficient applications
 
 ### Technologies and Tools
 
@@ -59,11 +60,10 @@ Here are some of the technologies and tools I work with:
 
 Feel free to explore my repositories and projects, and don't hesitate to reach out if you want to collaborate or have any questions!
 
-Feel free to explore my repositories and projects, and don't hesitate to reach out if you want to collaborate or have any questions!
-
+<!--
 ## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmthangdn2000&show_icons=true&locale=en" alt="nmthangdn2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nmthangdn2000&show_icons=true&locale=en" alt="nmthangdn2000" /></p> -->
 
 ## Contributions
 
